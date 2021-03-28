@@ -19,3 +19,4 @@ When clicking on item from nav menu the link is scrolling smothly to the appropr
 ## Section Active
 By using Intersection Observe, we highlights section in viewport upon scrolling on the window.
 
+# Landing-Page-
